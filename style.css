@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 0;
+    font-family: "Open Sans", "Arial", sans-serif;
+    text-align: left;
+}
+
+ul {
+    list-style-image: linear-gradient(rgb(156, 151, 223) 0, rgb(47, 253, 253) 50%, rgb(20, 149, 255) 50%);
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover { 
+    text-decoration: underline;
+    color: blue;
+} 
+
+a img {
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    text-indent: 20px;
+}
+
+table {
+    margin: 0 10%;
+}
+
+.end-footer {
+    font-size: 5px;
+    text-align: right;
+}
